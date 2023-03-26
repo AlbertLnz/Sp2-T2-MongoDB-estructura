@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6420727a9933b3bf202264dd"
+  },
+  "tienda_id": {
+    "$oid": "64207ab19933b3bf202264e1"
+  },
+  "nombre": "Matías",
+  "apellidos": "Domínguez Quirón",
+  "comandas": [
+    {
+      "id_comanda": {
+        "$oid": "641c2944247bace5111bc542"
+      },
+      "order_at": {
+        "$timestamp": {
+          "t": 0,
+          "i": 0
+        }
+      },
+      "entrega": "domicili",
+      "productes": [
+        {
+          "$oid": "6420813a9933b3bf202264f2"
+        },
+        {
+          "$oid": "642081bc9933b3bf202264f3"
+        }
+      ]
+    }
+  ],
+  "direccion": "Av. María Cristina, 38",
+  "codigo_postal": "08671",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": 684310977
+},{
+  "_id": {
+    "$oid": "642086629933b3bf202264f5"
+  },
+  "nombre": "Carla",
+  "apellidos": "Grau Casas",
+  "comandas": [
+    {
+      "id_comanda": {
+        "$oid": "641c2944247bace5111bc542"
+      },
+      "order_at": {
+        "$timestamp": {
+          "t": 0,
+          "i": 0
+        }
+      },
+      "entrega": "botiga",
+      "productes": [
+        {
+          "$oid": "642080379933b3bf202264f0"
+        },
+        {
+          "$oid": "642081bc9933b3bf202264f3"
+        }
+      ]
+    }
+  ],
+  "direccion": "C/ Muntaner, 92",
+  "codigo_postal": "17600",
+  "localidad": "Figueres",
+  "provincia": "Girona",
+  "telefono": 672910254,
+  "tienda_id": {
+    "$oid": "64207ab19933b3bf202264e1"
+  }
+}]

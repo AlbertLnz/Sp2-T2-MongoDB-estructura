@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64207c739933b3bf202264e8"
+  },
+  "cognoms": "Mopis Querta",
+  "nif": "89210382J",
+  "nombre": "Pere",
+  "tarea": "repartidor",
+  "telefon": 629394017,
+  "tienda_id": {
+    "$oid": "64207ab19933b3bf202264e1"
+  }
+},{
+  "_id": {
+    "$oid": "64207dc59933b3bf202264ea"
+  },
+  "cognoms": "Querol Puig",
+  "nif": "91283926P",
+  "nombre": "Gemma",
+  "tarea": "botiga",
+  "telefon": 601783209,
+  "tienda_id": {
+    "$oid": "64207ab19933b3bf202264e1"
+  }
+}]

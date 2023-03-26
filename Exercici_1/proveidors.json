@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "6419977d08774205085c427e"
+  },
+  "adreca": "P.I. Parque Plata, C. Cam. Mozarabe, 9",
+  "ciutat:": "Camas - Sevilla",
+  "codi_postal": "41900",
+  "fax": "optimafarma@gmail.com",
+  "nif": "737483482T",
+  "nom": "Optima Farma",
+  "telefon": 673928319,
+  "productos_RayBan": [
+    {
+      "marca": "Ray-Ban",
+      "modelo": "21213232",
+      "id_modelo": {
+        "$oid": "64199baa08774205085c4288"
+      },
+      "color_muntura": "negre",
+      "color_vidre": "verd",
+      "graduacio": "OA",
+      "preu": {
+        "$numberDecimal": "317.27"
+      },
+      "tipus_muntura": "flotant"
+    },
+    {
+      "marca": "Ray-Ban",
+      "modelo": "4384325",
+      "color_muntura": "vermell",
+      "color_vidre": "gris",
+      "graduacio": "OI",
+      "id_modelo": {
+        "$oid": "6419a6f708774205085c4294"
+      },
+      "preu": {
+        "$numberDecimal": "197.98"
+      },
+      "tipus_muntura": "metàl·lica"
+    }
+  ],
+  "productos_Carrera": [
+    {
+      "marca": "Carrera",
+      "modelo": "8658845",
+      "color_vidre": "negre",
+      "graduacio": "OI",
+      "id_modelo": {
+        "$oid": "6419c623ee29f196630bf54f"
+      },
+      "preu": {
+        "$numberDecimal": "89.21"
+      },
+      "color_muntura": "groc",
+      "tipus_muntura": "pasta"
+    },
+    {
+      "marca": "Carrera",
+      "modelo": "5748526",
+      "color_vidre": "blau",
+      "graduacio": "ALL",
+      "id_modelo": {
+        "$oid": "6419c66fee29f196630bf550"
+      },
+      "preu": {
+        "$numberDecimal": "152.43"
+      },
+      "color_muntura": "gris",
+      "tipus_muntura": "metàl·lica"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6419c851ee29f196630bf557"
+  },
+  "adreca": "C. Progreso, 2",
+  "ciutat:": "Getafe - Madrid",
+  "codi_postal": "28906",
+  "fax": "missandtrendysunglasses@gmail.com",
+  "nif": "54728462V",
+  "nom": "Missandtrendy Sunglasses",
+  "telefon": 673928319,
+  "productos_LouisVuitton": [
+    {
+      "marca": "Louis Vuitton",
+      "modelo": "84398921",
+      "color_muntura": "tronja",
+      "color_vidre": "negre",
+      "graduacio": "OI",
+      "preu": {
+        "$numberDecimal": "893.31"
+      },
+      "tipus_muntura": "pasta",
+      "id_modelo": {
+        "$oid": "6419c883ee29f196630bf558"
+      }
+    },
+    {
+      "marca": "Louis Vuitton",
+      "modelo": "549843843",
+      "color_muntura": "verd",
+      "color_vidre": "blanc",
+      "graduacio": "ALL",
+      "preu": {
+        "$numberDecimal": "752.21"
+      },
+      "tipus_muntura": "metàl·lica",
+      "id_modelo": {
+        "$oid": "6419c890ee29f196630bf559"
+      }
+    }
+  ],
+  "productos_Prada": [
+    {
+      "marca": "Prada",
+      "modelo": "09548438",
+      "color_vidre": "transparent",
+      "graduacio": "-",
+      "preu": {
+        "$numberDecimal": "555.99"
+      },
+      "id_modelo": {
+        "$oid": "6419c89eee29f196630bf55a"
+      },
+      "color_muntura": "violeta",
+      "tipus_muntura": "flotant"
+    },
+    {
+      "marca": "Prada",
+      "modelo": "4834884832",
+      "color_vidre": "marró",
+      "graduacio": "OI",
+      "preu": {
+        "$numberDecimal": "821.32"
+      },
+      "id_modelo": {
+        "$oid": "6419c8b0ee29f196630bf55b"
+      },
+      "color_muntura": "blau",
+      "tipus_muntura": "metàl·lica"
+    }
+  ]
+}]
