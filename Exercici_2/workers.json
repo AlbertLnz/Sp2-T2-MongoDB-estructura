@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64744ae4ec8e105d342ecc66"
+  },
+  "dni": "32882312L",
+  "job": "shop assistant",
+  "name": "Michaela",
+  "shop_id": {
+    "$oid": "64744a16ec8e105d342ecc62"
+  },
+  "surname": "Thomson",
+  "telephone": "73219203"
+},{
+  "_id": {
+    "$oid": "64744bdaec8e105d342ecc69"
+  },
+  "dni": "71825310L",
+  "job": "delivery",
+  "name": "Matt",
+  "shop_id": {
+    "$oid": "64744a16ec8e105d342ecc62"
+  },
+  "surname": "Portan",
+  "telephone": "32784394"
+}]

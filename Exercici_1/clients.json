@@ -1,67 +1,23 @@
 [{
   "_id": {
-    "$oid": "64199aa508774205085c4283"
+    "$oid": "64743ec5ec8e105d342ecc2f"
   },
-  "adreca": "C/ Padua, 28",
-  "ciutat": "Barcelona",
-  "codi_postal": "08235",
-  "comandes": [
-    {
-      "producte_id": {
-        "$oid": "64199baa08774205085c4288"
-      },
-      "pagat": true,
-      "sell_at": {
-        "$timestamp": {
-          "t": 0,
-          "i": 0
-        }
-      },
-      "venedor": {
-        "$oid": "6420385f1e60184b669e702a"
-      }
-    }
-  ],
-  "created_at": {
-    "$timestamp": {
-      "t": 0,
-      "i": 0
+  "direction": {
+    "street": "C/ Pàdua, 88",
+    "city": "Barcelona",
+    "postal_code": "08032",
+    "country": "Spain"
+  },
+  "email": "albert@gmail.com",
+  "name": "Albert Lanza",
+  "telephone": "632819213",
+  "dates": {
+    "register_date": {
+      "$date": "2004-01-01T09:00:00.000Z"
+    },
+    "uploaded_date": {
+      "$date": "2004-01-01T11:00:00.000Z"
     }
   },
-  "mail": "miquelmerino@gmail.com",
-  "nom": "Miquel Merino",
-  "telefon": 679785462
-},{
-  "_id": {
-    "$oid": "6419c99bee29f196630bf564"
-  },
-  "adreca": "Paseo de la Castellana, 100",
-  "ciutat": "Madrid",
-  "codi_postal": "28482",
-  "comandes": [
-    {
-      "producte_id": {
-        "$oid": "6419c8b0ee29f196630bf55b"
-      },
-      "pagat": false,
-      "sell_at": {
-        "$timestamp": {
-          "t": 0,
-          "i": 0
-        }
-      },
-      "venedor": {
-        "$oid": "6420385f1e60184b669e702a"
-      }
-    }
-  ],
-  "created_at": {
-    "$timestamp": {
-      "t": 1679411611,
-      "i": 1
-    }
-  },
-  "mail": "mariagarrido1978@gmail.com",
-  "nom": "Maria Garrido",
-  "telefon": 619350981
+  "recomendation_client_id": ""
 }]

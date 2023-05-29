@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64744c49ec8e105d342ecc6c"
+  },
+  "description": "tipical pizza from napoli",
+  "image": "",
+  "name": "pizza margarita",
+  "price": 12.99
+},{
+  "_id": {
+    "$oid": "64744ce1ec8e105d342ecc6d"
+  },
+  "description": "coca-cola 75cl original",
+  "image": "",
+  "name": "drink coca-cola",
+  "price": 2.5
+},{
+  "_id": {
+    "$oid": "64744d13ec8e105d342ecc6e"
+  },
+  "description": "classic hamburguer from Texas",
+  "image": "",
+  "name": "hamburguer texana",
+  "price": 6.29
+}]

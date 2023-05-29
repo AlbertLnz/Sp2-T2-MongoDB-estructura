@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "647440d9ec8e105d342ecc37"
+  },
+  "supplier": "rayban",
+  "supplier_id": {
+    "$oid": "64743fc5ec8e105d342ecc31"
+  },
+  "adjustment_glasses": [
+    1,
+    0
+  ],
+  "frame": "flotant",
+  "frame_color": "green",
+  "glasses_color": "red",
+  "price": 89
+}]

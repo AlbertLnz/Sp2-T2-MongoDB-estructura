@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6474d5aeec8e105d342ecc7b"
+  },
+  "client_id": {
+    "$oid": "647448d8ec8e105d342ecc5f"
+  },
+  "shop_id": {
+    "$oid": "64744a16ec8e105d342ecc62"
+  },
+  "worker_id": {
+    "$oid": "64744bdaec8e105d342ecc69"
+  },
+  "shipment": "delivery",
+  "products": [
+    {
+      "$oid": "64744c49ec8e105d342ecc6c"
+    },
+    {
+      "$oid": "64744ce1ec8e105d342ecc6d"
+    },
+    {
+      "$oid": "64744ce1ec8e105d342ecc6d"
+    },
+    {
+      "$oid": "64744d13ec8e105d342ecc6e"
+    }
+  ]
+}]

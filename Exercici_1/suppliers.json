@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "64743fc5ec8e105d342ecc31"
+  },
+  "direction": {
+    "street": "C/Guillem, 82",
+    "city": "Madrid",
+    "country": "Spain",
+    "postal_code": "65832"
+  },
+  "name": "RayBan SL",
+  "telephone": "673210288",
+  "nif": "372919203P",
+  "brand": "rayban"
+}]
