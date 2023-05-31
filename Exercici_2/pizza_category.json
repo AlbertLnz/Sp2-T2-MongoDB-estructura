@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "647733cf87d2f9484badf5f9"
+  },
+  "pizza_type": "small",
+  "updated_at": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6477345987d2f9484badf5fe"
+  },
+  "pizza_type": "medium",
+  "updated_at": {
+    "$timestamp": {
+      "t": 1685533785,
+      "i": 1
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6477347d87d2f9484badf5ff"
+  },
+  "pizza_type": "large",
+  "updated_at": {
+    "$timestamp": {
+      "t": 1685533785,
+      "i": 1
+    }
+  }
+}]

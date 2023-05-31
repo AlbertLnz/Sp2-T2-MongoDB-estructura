@@ -8,8 +8,11 @@
     "country": "Spain",
     "postal_code": "65832"
   },
-  "name": "RayBan SL",
+  "name": "Supplier1",
   "telephone": "673210288",
   "nif": "372919203P",
-  "brand": "rayban"
+  "brand": [
+    "Ray-Ban",
+    "Carrera"
+  ]
 }]

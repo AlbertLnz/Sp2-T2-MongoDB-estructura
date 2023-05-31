@@ -5,7 +5,10 @@
   "description": "tipical pizza from napoli",
   "image": "",
   "name": "pizza margarita",
-  "price": 12.99
+  "price": 12.99,
+  "pizza_category_id": {
+    "$oid": "647733cf87d2f9484badf5f9"
+  }
 },{
   "_id": {
     "$oid": "64744ce1ec8e105d342ecc6d"
